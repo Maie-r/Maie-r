@@ -16,9 +16,9 @@ I really like writing code! Currently still learning things, trying to find many
 An application that lists your teams with their total damage output, in different situations, and can pair two teams for you to use in the Spiral Abyss!<br>
 My first time using Blazor Hybrid, really liked using it!
 
-![image](https://github.com/user-attachments/assets/1167888b-451b-4c39-9716-5fa0a2dea9aa)
+![image](https://github.com/Maie-r/GenshinTeamManager/tree/master/Showcase/TeamTable)
 ![image](https://github.com/user-attachments/assets/3989d339-da0c-43a4-9629-780d3d9cf12a)
-![image](https://github.com/user-attachments/assets/dcae584a-c398-47ca-83ed-808b4c6056f5)
+![image](https://github.com/Maie-r/GenshinTeamManager/tree/master/Showcase/TeamPairTable)
 
 ### [Local Tier List](https://github.com/Maie-r/Local-Tier-List)
 

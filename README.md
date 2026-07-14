@@ -1,3 +1,5 @@
+🇺🇸 English | [🇧🇷 Português](README-ptbr.md)
+
 ## Yo!
 
 My name is Nitai Nandi, but you can call me Maie.

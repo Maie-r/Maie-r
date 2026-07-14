@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | 🇧🇷 Português
+
 ## Opa!
 
 Meu nome é Nitai Nandi, mas pode me chamar de Maie.
